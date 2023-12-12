@@ -43,7 +43,7 @@ For more details on the datasets, please refer to
 [DATA_PREPARATION](https://github.com/ttt-matching-based-vos/ttt_matching_vos/blob/main/DATA_PREPARATION.md).
 
 
-## Test time training
+## Test-time training
 
 We evaluated our proposed test-time training strategy starting from two offline-trained matching-based models:
 * [STCN](https://github.com/hkchengrex/STCN)

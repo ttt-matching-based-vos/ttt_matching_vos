@@ -1,2 +1,2 @@
-# Test-time training using a offline-trained XMem model
+# Test-time training using an offline-trained XMem model
 Soon coming

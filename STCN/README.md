@@ -1,4 +1,4 @@
-# Test-time training using a offline-trained STCN model
+# Test-time training using an offline-trained STCN model
 This code is based on the 
 [STCN](https://github.com/hkchengrex/STCN) repository.
 
