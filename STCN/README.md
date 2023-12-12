@@ -46,7 +46,7 @@ For each model, you can run the test-time training strategy using three losses:
 * the `tt-ent` loss, an entropy-based variant
 
 For each combination of an offline trained model and a loss, we saved the parameters used to run our test-time training 
-strategy in a configuration file, saved in the [`ttt_configs`](https://github.com/ttt-matching-based-vos/ttt_matching_vos/tree/main/STCN/ttt_configs) folder.
+strategy in a configuration file, saved in the [`ttt_configs`](ttt_configs) folder.
 
 You can save your own config by running:
 ```
@@ -72,7 +72,7 @@ test-time training loss used) and the dataset you want to run it for.
 
 ### Choose your configuration file
 
-Choose your configuration file in the [`ttt_configs`](https://github.com/ttt-matching-based-vos/ttt_matching_vos/tree/main/STCN/ttt_configs) folder (it can be one of your own as well).
+Choose your configuration file in the [`ttt_configs`](ttt_configs) folder (it can be one of your own as well).
 For our main study, we used:
 * `stcn_s01_mcc.yaml` (sim2real)
 * `stcn_mcc.yaml` (corrupted examples)
