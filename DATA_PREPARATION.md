@@ -44,7 +44,7 @@ DATASETS
 ```
 pip install gdown
 
-python ttt_downlaod_datasets.py --root_folder <your_dataset_root_folder>
+python ttt_download_datasets.py --root_dir <your_dataset_root_folder>
 ```
 
 [//]: # (## References)
