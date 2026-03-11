@@ -36,7 +36,7 @@ We evaluated our test-time training strategy on four datasets:
 * [DAVIS 2017](https://davischallenge.org/)
 * [YOUTUBE-VOS 2018](https://youtube-vos.org/)
 * [MOSE](https://henghuiding.github.io/MOSE/)
-* [DAVIS-C](https://jbertrand89.github.io/test-time-training-vos/)
+* [DAVIS-C](http://ptak.felk.cvut.cz/personal/toliageo/share/davisc/davisc.tar.gz)
 
 
 For more details on the datasets, please refer to 
